@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+openai
+google-api-python-client
+pinecone-client
+httpx
